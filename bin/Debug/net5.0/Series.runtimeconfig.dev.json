@@ -1,0 +1,10 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mtgsj\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mtgsj\\.nuget\\packages",
+      "D:\\Program Files (x86)\\VisualStudio2021\\Shared\\NuGetPackages",
+      "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+    ]
+  }
+}
